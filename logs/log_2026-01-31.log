@@ -1,0 +1,15 @@
+2026-01-31 15:59:47,731 - INFO - Starting to build pipeline...
+2026-01-31 15:59:47,766 - INFO - Data  loaded and processed...
+2026-01-31 15:59:47,768 - INFO - Use pytorch device_name: cpu
+2026-01-31 15:59:47,768 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 15:59:53,310 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-01-31 16:00:01,187 - INFO - Vector store Built sucesfully....
+2026-01-31 16:00:01,187 - INFO - Pipeline built sucessfully....
+2026-01-31 16:07:34,648 - INFO - Initializing Recommendation Pipeline
+2026-01-31 16:07:34,657 - INFO - Use pytorch device_name: cpu
+2026-01-31 16:07:34,657 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 16:07:40,385 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-01-31 16:07:40,767 - INFO - Pipeline initialized successfully
+2026-01-31 16:08:25,197 - INFO - Received query: naruto
+2026-01-31 16:08:28,565 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-31 16:08:31,428 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
