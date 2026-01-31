@@ -13,3 +13,11 @@
 2026-01-31 16:08:25,197 - INFO - Received query: naruto
 2026-01-31 16:08:28,565 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
 2026-01-31 16:08:31,428 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-31 16:09:24,103 - INFO - Initializing Recommendation Pipeline
+2026-01-31 16:09:24,112 - INFO - Use pytorch device_name: cpu
+2026-01-31 16:09:24,112 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 16:09:29,154 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-01-31 16:09:29,804 - INFO - Pipeline initialized successfully
+2026-01-31 16:09:51,993 - INFO - Received query: highschool drama
+2026-01-31 16:09:54,478 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-31 16:09:57,549 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
